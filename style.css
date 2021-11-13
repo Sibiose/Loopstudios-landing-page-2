@@ -14,6 +14,8 @@
 img{
 	display:inline-block;
 }
+body{
+overflow-X:hidden;} 
 /*font-family: 'Alata', sans-serif;
 font-family: 'Josefin Sans', sans-serif;*/
 
